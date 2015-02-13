@@ -4,7 +4,7 @@ LoggerUtil: Dump objects as JSON-like string
 
 * No dependencies.
 * Modify codes as you like.
-* This is dump ulitity. Not a JSON serializer.
+* This is dump utlitity. Not a JSON serializer.
 
 ## Sample Class:
 
